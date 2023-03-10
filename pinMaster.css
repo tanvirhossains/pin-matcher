@@ -1,0 +1,10 @@
+body {
+    background-color: darkgrey;
+
+}
+
+.button{
+    background-color: bisque;
+    padding: 15px;
+    /* display: inline; */
+}
